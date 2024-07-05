@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5432918a-8208-4b0d-985a-d13e1673b256" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/.idea/jpa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa.xml" afterDir="false" />
+    <list default="true" id="5432918a-8208-4b0d-985a-d13e1673b256" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92d79c02-aa73-460d-b22e-992ca32ece33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/92d79c02-aa73-460d-b22e-992ca32ece33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/899be063b36447a3a2627b048139a98cec2d5b9c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/9/899be063b36447a3a2627b048139a98cec2d5b9c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/megazone/recruit/RecruitApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +60,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lee" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,12 +82,40 @@
     &quot;assignee&quot;: &quot;nowgnodeel123&quot;
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1720142554" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="lee" />
+                    <option name="lastUsedInstant" value="1720110911" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/nowgnodeel123/nowgnodeel123-MEGAZONE-studygroup.git&quot;,
     &quot;accountId&quot;: &quot;246d085b-d429-41c8-9c49-702725f116ba&quot;
   }
 }</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="KotlinCodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
@@ -93,7 +144,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/code/recruit/src/main/java/com/megazone/recruit/userSkill",
+    "last_opened_file_path": "C:/code/recruit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,6 +159,9 @@
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "mysql"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
 }]]></component>
@@ -120,7 +174,12 @@
       <recent name="C:\code\recruit\src\main\java\com\megazone\recruit\recruitmentPost" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.RecruitApplication">
+    <configuration name="table.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/table.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
     <configuration name="RecruitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="recruit.main" />
@@ -148,7 +207,22 @@
       <updated>1719897865098</updated>
       <workItem from="1719897868764" duration="537000" />
       <workItem from="1719907828394" duration="62000" />
-      <workItem from="1719918615484" duration="3782000" />
+      <workItem from="1719918615484" duration="4920000" />
+      <workItem from="1719925686974" duration="197000" />
+      <workItem from="1719926051115" duration="615000" />
+      <workItem from="1719973082776" duration="124000" />
+      <workItem from="1719973591582" duration="371000" />
+      <workItem from="1719979365581" duration="97000" />
+      <workItem from="1719989645237" duration="31000" />
+      <workItem from="1720005221286" duration="369000" />
+      <workItem from="1720006690095" duration="2605000" />
+      <workItem from="1720053219832" duration="228000" />
+      <workItem from="1720056362172" duration="835000" />
+      <workItem from="1720079009694" duration="4000" />
+      <workItem from="1720079471140" duration="15000" />
+      <workItem from="1720108035990" duration="2872000" />
+      <workItem from="1720139763189" duration="710000" />
+      <workItem from="1720142509910" duration="506000" />
     </task>
     <task id="LOCAL-00001" summary="third commit">
       <option name="closed" value="true" />
@@ -158,13 +232,78 @@
       <option name="project" value="LOCAL" />
       <updated>1719922684159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test: 브랜치 확인">
+      <option name="closed" value="true" />
+      <created>1719926415796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719926415796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: sql 추가">
+      <option name="closed" value="true" />
+      <created>1720110265491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720110265491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: mapper 추가(수정 필요)">
+      <option name="closed" value="true" />
+      <created>1720110319954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720110319954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: global 기능 추가(수정 필요)">
+      <option name="closed" value="true" />
+      <created>1720110373812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720110373812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: gradle(jpa-&gt;mybatis) 변경">
+      <option name="closed" value="true" />
+      <created>1720110452327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720110452327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="lee" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -177,7 +316,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="test: 브랜치 확인" />
+    <MESSAGE value="feat: sql 추가" />
+    <MESSAGE value="feat: mapper 추가(수정 필요)" />
+    <MESSAGE value="feat: global 기능 추가(수정 필요)" />
+    <MESSAGE value="feat: gradle(jpa-&gt;mybatis) 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: gradle(jpa-&gt;mybatis) 변경" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
