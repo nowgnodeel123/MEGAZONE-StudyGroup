@@ -7,11 +7,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class MainController {
 
-    @GetMapping({"/", "/main"})
-    public String main(Model model) {
-        System.out.println("main");
-        
-
-        return "/main/main";
-    }
+  @GetMapping({"/"})
+  public String main(Model model) {
+    System.out.println("main");
+    return "main";  // /WEB-INF/views/main.jsp를 참조합니다.
+  }
 }
